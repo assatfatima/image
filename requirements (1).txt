@@ -1,10 +1,6 @@
 streamlit
-geopandas
 folium
 streamlit_folium
-shapely
-pandas
-jenkspy
 leafmap
 altair
 Pillow
