@@ -1,7 +1,4 @@
 import streamlit as st
-import geopandas as gpd
-import pandas as pd
-from shapely.geometry import Point
 import numpy as np
 import folium
 import plotly.express as px
